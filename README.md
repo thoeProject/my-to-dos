@@ -1,2 +1,2 @@
 ## Streamlit - Webapp
-cmd "streamlit run your_script.py"
+cmd "streamlit run webapp.py"
